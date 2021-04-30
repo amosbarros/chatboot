@@ -1,0 +1,71 @@
+body {
+    background-color: #CEDCE6;
+}
+
+footer {
+    background-color: #232323;
+}
+
+
+#mensagens{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
+.load-delay {
+    margin: 0 auto;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.c {
+    background-color: #014e81;
+    color: #ffffffc4;
+}
+
+.btn-chamada {
+    color: #fff;
+    background-color: #014e81;
+    border-color: #014e81;
+}
+
+
+/*footer*/
+.est span {
+    line-height: 14px;
+    font-size: 12px;
+    color: rgb(150, 149, 149);
+    font-weight: 400;
+    font-family: Arimo, sans-serif
+}
